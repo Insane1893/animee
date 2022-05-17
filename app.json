@@ -1,5 +1,5 @@
 {
-  "name": "t3f5",
+  "name": "animee",
   "description": "A Pyrogram Telegram bot to access Telegram Files via the web.",
   "keywords": [
       "telegram",
@@ -11,7 +11,7 @@
       "modular",
       "media"
     ],
-  "repository": "https://github.com/EverythingSuckz/TG-FileStreamBot",
+  "repository": "https://github.com/Insane1893/waifuuu",
   "success_url": "/",
   "website": "stream.wrench.gq",
   "env": {
